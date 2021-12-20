@@ -1,0 +1,76 @@
+body {
+    background-color:rgb(146, 171, 197)
+}
+header {
+    position: fixed;
+    left: -480px;
+    top: -20px;
+    padding: 0px;
+    margin: 0px;
+}
+h1 {
+    font-family: arial;
+    color: rgb(0, 0, 0);
+    position: fixed;
+    top: 30px;
+    left: 50px;
+    padding: 10px;
+    margin: 0px;
+}
+h3 {
+    font-family: helvetica;
+    color:rgb(12, 11, 82);
+    position: relative;
+    top: 200;
+    left: 50;
+}
+insta {
+    position: absolute;
+    top: 450;
+    left: 0;
+}
+div1 {
+    position: fixed;
+    top: 250;
+    left: 80;
+}
+div2 {
+    position: fixed;
+    top: 310;
+    left: 75;
+}
+wave {
+    position: fixed;
+    top: 250;
+    left: -480;
+}
+div3 {
+    position: fixed;
+    top: 450;
+    left: 80;
+}
+div4 {
+    position: fixed;
+    top: 370;
+    left: -470;
+}
+div5 {
+    position: fixed;
+    top: 570;
+    left: 80;
+}
+img {
+    position: absolute;
+    top: 140;
+    left: 550;
+}
+outline {
+    position: absolute;
+    top: 70;
+    left: 520;
+}
+collage {
+    position: fixed;
+    top: 10px;
+    left: 520px;
+}
